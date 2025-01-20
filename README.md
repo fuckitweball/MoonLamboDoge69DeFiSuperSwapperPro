@@ -2,6 +2,8 @@
 
 c'est mon premier open source repo
 
+it was intended to be a solana portfolio viewer which ended up with a bunch of ray v4 swaps and other util functions. kinda cool, give it a try ;)
+
 fill up yo deets in config file and run using **flet run** or **python app.py**
 
 its not complete/perfect but it does the job. 
